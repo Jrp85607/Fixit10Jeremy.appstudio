@@ -71,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "customerUpdate",
+      "firstform": "customerDelete",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
